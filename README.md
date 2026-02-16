@@ -16,8 +16,8 @@ Model link:
 
 This is a **supervised learning** project because:
 
-- You manually provided labeled images for each class.
-- The model learns by mapping input images to the labels you defined.
+- I manually provided labeled images for each class.
+- The model learns by mapping input images to the labels I defined.
 - Training involves comparing predictions with the correct labels and adjusting the model to reduce errors.
 
 **In summary:**  
@@ -25,7 +25,7 @@ This is a **supervised learning** project because:
 
 ---
 
-## 🧪 What Happens When You Hold Two Objects at Once?
+## 🧪 What Happens When I Hold Two Objects at Once?
 
 Teachable Machine models are **single‑label classifiers**.  
 This means:
@@ -52,7 +52,7 @@ The model tries to interpret the entire image as **one category**, so it:
 Because of this, the model guesses **one best match**, even though the input contains multiple gestures.
 
 **In short:**  
-> When you hold two objects at once, the model becomes uncertain but still chooses the gesture that appears strongest in the image.
+> When I hold two objects at once, the model becomes uncertain but still chooses the gesture that appears strongest in the image.
 
 ---
 The model predicts probabilities for each class.
