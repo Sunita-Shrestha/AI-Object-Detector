@@ -58,8 +58,8 @@ Because of this, the model guesses **one best match**, even though the input con
 The model predicts probabilities for each class.
 
 Example output:
-<img width="370" height="807" alt="rock" src="https://github.com/user-attachments/assets/09f49a77-ac89-4327-87a2-e079b1b2f201" />
-<img width="393" height="795" alt="papper" src="https://github.com/user-attachments/assets/a4882b93-080b-4a59-bf17-7143e16db016" />
-<img width="377" height="803" alt="paper-scissor" src="https://github.com/user-attachments/assets/41a2936e-67e5-44c5-8add-f49569659525" />
-<img width="372" height="806" alt="scissors" src="https://github.com/user-attachments/assets/f5f52c7c-600d-4acf-902c-9800b3b43918" />
+<img width="370" height="800" alt="rock" src="https://github.com/user-attachments/assets/09f49a77-ac89-4327-87a2-e079b1b2f201" />
+<img width="370" height="800" alt="papper" src="https://github.com/user-attachments/assets/a4882b93-080b-4a59-bf17-7143e16db016" />
+<img width="370" height="800" alt="paper-scissor" src="https://github.com/user-attachments/assets/41a2936e-67e5-44c5-8add-f49569659525" />
+<img width="370" height="800" alt="scissors" src="https://github.com/user-attachments/assets/f5f52c7c-600d-4acf-902c-9800b3b43918" />
 
